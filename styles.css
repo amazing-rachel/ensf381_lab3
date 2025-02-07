@@ -4,17 +4,20 @@ body {
 }
 
 .spacing {
-    margin-bottom: 20px;
-
+    border-spacing: 0 20px;
 }
+    
+
 .box1 {
     background-color:  darkred;
     text-align:center;
 }
+
 .box2 {
     background-color:  deeppink;
     text-align:center;
 }
+
 .box3 {
     background-color: brown;
     text-align:center;
@@ -30,7 +33,6 @@ body {
     width: 570px;
     height: 400px;
     display: block;
-
 }
 
 p {
