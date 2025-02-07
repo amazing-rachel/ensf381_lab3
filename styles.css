@@ -3,20 +3,17 @@ body {
     padding: 0;
 }
 
-.table2 {
+.spacing {
     margin-bottom: 20px;
 
 }
-
 .box1 {
     background-color:  darkred;
     text-align:center;
-    
 }
 .box2 {
     background-color:  deeppink;
     text-align:center;
-
 }
 .box3 {
     background-color: brown;
