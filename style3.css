@@ -23,7 +23,7 @@
     display: flex;
     background-color: #333;
     padding: 10px 20px;
-    align-items: center;
+    text-align: center;
 }
 
 .navbar a {
